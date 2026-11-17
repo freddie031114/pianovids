@@ -1,0 +1,12 @@
+# never commit media, work folders or environments
+__pycache__/
+*.pyc
+.venv/
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.png
+*.jpg
+*-reel/
+work*/
